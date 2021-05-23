@@ -1,4 +1,4 @@
 # TrilhaGame
-Repositório para o trabalho de comp 1 - jogo Trilha
+Repositório para o trabalho de Computação I - jogo Trilha.
 
-Abre o Menu.py q roda suave
+Abrir Menu.py.
